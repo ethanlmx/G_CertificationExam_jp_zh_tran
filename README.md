@@ -1,2 +1,2 @@
 # G_CertificationExam_jp_zh_tran
-G検定 
+G検定专业术语中日英对照
